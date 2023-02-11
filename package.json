@@ -1,0 +1,25 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlozanoc82/async-landing.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Daniel Lozano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlozanoc82/async-landing/issues"
+  },
+  "homepage": "https://github.com/dlozanoc82/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}

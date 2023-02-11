@@ -1,0 +1,92 @@
+.footer-content{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-content-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content-img img{
+    width: 140px;
+}
+
+.footer-left{
+    padding: 20px;
+}
+
+.footer-left p{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.footer-left p:hover{
+    color: white;
+}
+
+.social-media{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.social-media a {
+    width: 3.1rem;
+    height: 3.1rem;
+    border: 0.1rem solid #777;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    color: #555;
+}
+
+
+.social-media .facebook:hover{
+    background-color: #1877f2;
+    border: 0.1rem solid #fff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-media .instagram:hover{
+    background-color: #f56040;
+    border: 0.1rem solid #fff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-media .snapchat:hover{
+    background-color: #fffc00;
+    border: 0.1rem solid #fff;
+    color: #000;
+    cursor: pointer;
+}
+
+.social-media .pinterest:hover{
+    background-color: #e60023;
+    border: 0.1rem solid #fff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-media .youtube:hover{
+    background-color: #ff0000;
+    border: 0.1rem solid #fff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-media .tumblr:hover {
+    background-color: #35465c;
+    border: 0.1rem solid #fff;
+    color: #fff;
+    cursor: pointer;
+}
